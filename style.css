@@ -57,7 +57,8 @@ body {
 }
 
 .container .ring:nth-child(2) {
-    animation: animate2 4s linear infinite;border-left: 4px solid #93ff2d;
+    animation: animate2 4s linear infinite;
+    border-left: 4px solid #93ff2d;
 }
 
 .container .ring:nth-child(2)::before {
