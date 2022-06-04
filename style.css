@@ -31,7 +31,8 @@ body {
 }
 
 .container .ring::before {
-    content: '';position: absolute;
+    content: '';
+    position: absolute;
 }
 
 .container .ring:nth-child(3) {
