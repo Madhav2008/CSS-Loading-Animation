@@ -20,4 +20,4 @@ body {
     align-items: center;
 }
 
-.container .ring {}
+.container .ring {position: relative;}
