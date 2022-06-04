@@ -85,7 +85,8 @@ body {
     animation: animate2 4s linear infinite;
     animation-delay: -3s;
     position: absolute;
-    top: -66.66%;border-top: 4px solid transparent;
+    top: -66.66%;
+    border-top: 4px solid transparent;
 }
 
 
