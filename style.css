@@ -80,7 +80,6 @@ body {
         0 0 50px #93ff2d;
 }
 
-
 .container .ring:nth-child(3) {
     animation: animate2 4s linear infinite;
     animation-delay: -3s;
