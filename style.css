@@ -36,5 +36,6 @@ body {
 
 .container p {
     position: absolute;
-    color: #fff;font-size: 1.5em;
+    color: #fff;
+    font-size: 1.5em;
 }
