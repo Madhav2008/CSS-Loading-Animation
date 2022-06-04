@@ -37,5 +37,6 @@ body {
 .container p {
     position: absolute;
     color: #fff;
-    font-size: 1.5em;font-family: consolas;
+    font-size: 1.5em;
+    font-family: consolas;
 }
