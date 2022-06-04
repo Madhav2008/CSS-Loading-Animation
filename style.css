@@ -87,6 +87,21 @@ body {
     top: -66.66%;
     border-top: 4px solid transparent;
     border-left: 4px solid #e41cf8;
+}.container .ring:nth-child(2)::before {
+    content: '';
+    position: absolute;
+    top: initial;
+    bottom: 12px;
+    left: 12px;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    background: #93ff2d;
+    box-shadow: 0 0 0 5px #93ff2d33,
+        0 0 0 10px #93ff2d22,
+        0 0 0 20px #93ff2d11,
+        0 0 20px #93ff2d,
+        0 0 50px #93ff2d;
 }
 
 
