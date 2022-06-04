@@ -34,7 +34,8 @@ body {
     content: '';
     position: absolute;
     top: 12px;
-    right: 12px;border-radius: 50%;
+    right: 12px;
+    border-radius: 50%;
     width: 15px;
     height: 15px;
     background: #24ecff;
