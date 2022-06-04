@@ -34,4 +34,6 @@ body {
     top: -66.66%;
 }
 
-.container p {position: absolute;}
+.container p {
+    position: absolute;
+}
