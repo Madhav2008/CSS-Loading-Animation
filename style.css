@@ -38,7 +38,7 @@ body {
     border-radius: 50%;
     width: 15px;
     height: 15px;
-    background: #24ecff;
+    background: #24ecff;box-shadow: 0 0 0 5px #24ecff;
 }
 
 .container .ring:nth-child(3) {
