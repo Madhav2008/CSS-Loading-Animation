@@ -64,7 +64,7 @@ body {
 
 .container .ring:nth-child(2)::before {
     content: '';
-    position: absolute;
+    position: absolute;top: initial;
     bottom: 12px;
     left: 12px;
     border-radius: 50%;
