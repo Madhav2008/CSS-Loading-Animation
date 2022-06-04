@@ -32,7 +32,8 @@ body {
 
 .container .ring::before {
     content: '';
-    position: absolute;top: 12px;
+    position: absolute;
+    top: 12px;
     width: 15px;
     height: 15px;
     background: #24ecff;
