@@ -54,7 +54,11 @@ body {
     font-family: consolas;
     bottom: -80px;
     letter-spacing: 0.15em;
+}.container .ring:nth-child(3) {
+    position: absolute;
+    top: -66.66%;
 }
+
 
 .container .ring:nth-child(3) {
     position: absolute;
