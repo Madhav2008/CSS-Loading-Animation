@@ -30,7 +30,9 @@ body {
     border-top: 4px solid #24ecff;
 }
 
-.container .ring::before {content: '';}
+.container .ring::before {
+    content: '';
+}
 
 .container .ring:nth-child(3) {
     position: absolute;
