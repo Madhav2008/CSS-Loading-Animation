@@ -79,7 +79,7 @@ body {
 
 @keyframes animate2 {
     0% {
-        transform: rotate(0deg);
+        transform: rotate(360deg);
     }
 
     100% {
