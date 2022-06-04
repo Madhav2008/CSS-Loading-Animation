@@ -4,6 +4,5 @@
 
 # Screenshots
 
-![image](https://user-images.githubusercontent.com/72864817/171989548-57a5f0d6-f4ce-41da-b6a5-4b8db2922d76.png)
 
 ![image](https://user-images.githubusercontent.com/72864817/171989666-a7fb1dd6-15fb-4665-9b9e-8701ee403ce3.png)
