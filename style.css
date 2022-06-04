@@ -58,7 +58,9 @@ body {
 
 .container .ring:nth-child(2) {
     animation: animate2 4s linear infinite;
-}.container .ring::before {
+}
+
+.container .ring::before {
     content: '';
     position: absolute;
     top: 12px;
