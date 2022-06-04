@@ -82,7 +82,7 @@ body {
 
 
 .container .ring:nth-child(3) {
-    animation: animate2;
+    animation: animate24s linear infinite;
     position: absolute;
     top: -66.66%;
 }
