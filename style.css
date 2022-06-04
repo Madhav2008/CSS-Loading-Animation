@@ -35,5 +35,6 @@ body {
 }
 
 .container p {
-    position: absolute;color: #fff;
+    position: absolute;
+    color: #fff;
 }
