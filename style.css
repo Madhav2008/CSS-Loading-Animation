@@ -56,7 +56,7 @@ body {
     letter-spacing: 0.15em;
 }
 
-.container .ring:nth-child(3) {
+.container .ring:nth-child(2) {
     position: absolute;
     top: -66.66%;
 }
