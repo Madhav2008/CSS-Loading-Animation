@@ -47,10 +47,6 @@ body {
         0 0 50px #24ecff;
 }
 
-.container .ring:nth-child(3) {
-    position: absolute;
-    top: -66.66%;
-}
 
 .container p {
     position: absolute;
