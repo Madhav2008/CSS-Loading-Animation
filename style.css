@@ -23,7 +23,7 @@ body {
 .container .ring {
     position: relative;
     width: 150px;
-    height: 150px;
+    height: 150px;margin: -30px;
     border-radius: 50%;
     border: 4px solid #fff;
 }
