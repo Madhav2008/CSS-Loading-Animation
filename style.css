@@ -28,4 +28,4 @@ body {
     border: 4px solid #fff;
 }
 
-.container .ring:nth-child(3) {}
+.container .ring:nth-child(3) {position: absolute;}
