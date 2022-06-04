@@ -58,6 +58,20 @@ body {
 
 .container .ring:nth-child(2) {
     animation: animate2 4s linear infinite;
+}.container .ring::before {
+    content: '';
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    background: #24ecff;
+    box-shadow: 0 0 0 5px #24ecff33,
+        0 0 0 10px #24ecff22,
+        0 0 0 20px #24ecff11,
+        0 0 20px #24ecff,
+        0 0 50px #24ecff;
 }
 
 
