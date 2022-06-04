@@ -34,7 +34,8 @@ body {
     content: '';
     position: absolute;
     width: 15px;
-    height: 15px;background: #24ecff;
+    height: 15px;
+    background: #24ecff;
 }
 
 .container .ring:nth-child(3) {
